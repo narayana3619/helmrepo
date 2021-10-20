@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  swamy:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-20T04:50:38.697057333Z"
+    description: A Helm chart for Kubernetes
+    digest: c95ead24fa855c98e8322ee9d45161e7b50c94c9731ac0bbeb43943d54e4081b
+    name: swamy
+    type: application
+    urls:
+    - https://narayana3619.github.io/helmrepo/swamy-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-20T04:50:38.696213948Z"
